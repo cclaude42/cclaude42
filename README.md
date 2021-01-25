@@ -7,5 +7,3 @@
 - 💬 Ask me about C, C++, Python, indie games, or anything! I won't always be able to help, but I'll do my best 😄
 - 📫 How to reach me: [cesarclaudepro@gmail.com](mailto:cesarclaudepro@gmail.com) | Slack 42Paris: cclaude
 - ⚡ Fun fact: I am fluent in pretending to speak Japanese
-
-[![cclaude42's github stats](https://github-readme-stats.vercel.app/api?username=cclaude42)](https://github.com/anuraghazra/github-readme-stats)
