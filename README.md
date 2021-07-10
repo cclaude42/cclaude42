@@ -1,6 +1,6 @@
 ### Hey! Welcome 😄
 
-- 🌱  I’m currently learning C++ by recoding the STL [containers](https://github.com/cclaude42/ft_containers)
+- 🌱  I’m currently doing little projecst like [push_swap](https://github.com/cclaude42/push_swap)
 - 🔭  I’m currently working as a product manager with [Junior 42Paris](https://paris.junior42.com/)
 - 👯  I’m currently participating in 42's pedagogy as part of the Tutors
 - 🤩  I’m interested in algorithms, AI, and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
