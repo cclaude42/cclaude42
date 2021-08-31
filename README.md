@@ -1,6 +1,6 @@
 ### Hey! Welcome 😄
 
-- 🌱  I’m currently learning about filesystems by recoding [ls](https://github.com/cclaude42/ft_ls)
+- 🌱  I’m currently learning about cybersecurity by coding a [MITM attack program](https://github.com/cclaude42/ft_malcolm)
 - 🔭  I’m currently working as a product manager with [Junior 42Paris](https://paris.junior42.com/)
 - 👯  I’m currently participating in 42's pedagogy as part of the Tutors
 - 🤩  I’m interested in algorithms, AI, and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
