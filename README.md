@@ -6,3 +6,6 @@
 - 💬  Ask me about C, C++, Python, indie games, or anything!
 - 📫  How to reach me: [cesarclaudepro@gmail.com](mailto:cesarclaudepro@gmail.com) | Slack 42Paris: cclaude
 - ⚡ Fun fact: I am fluent in pretending to speak Japanese
+
+
+[![cclaude's 42 stats](https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
