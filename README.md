@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I am fluent in pretending to speak Japanese
 
 
-[![cclaude's 42 stats](https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
-
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45" alt="cclaude's 42 stats" /></a>
 </p>
