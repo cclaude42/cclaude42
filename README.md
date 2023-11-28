@@ -1,4 +1,4 @@
-### Hey 🤙
+### Hey boyzzzzz I love coding xoxo
 
 - 💼  I'm working as a Cloud & DevOps Consultant @ [Devoteam Revolve](https://revolve.team/)
 - 🌱  I’m learning AWS with Maarek's Udemy classes, aiming to pass the Developer Associate certification ☁️
