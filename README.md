@@ -32,3 +32,7 @@
 ## 42 stats
 
 [![cclaude's 42 stats](https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
+
+## Github stats
+
+[![cclaude42's GitHub stats](https://github-readme-stats.vercel.app/api?username=cclaude42)](https://github.com/anuraghazra/github-readme-stats)
