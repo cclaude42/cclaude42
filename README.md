@@ -1,10 +1,9 @@
-### Hey! Welcome 😄
+### Hey 🤙
 
-- 💼  I'm currently working as a Cloud Consultant & DevOps @ [Devoteam Revolve](https://revolve.team/)
-- 🛠️  I'm currently managing an AWS EKS cluster using Helm & Terraform @ [Veolia](https://www.veolia.com/)
-- 🌱  I’m currently learning Terraform by automating infrastructure provisioning for a static site in the cloud ☁️
-- 🤩  I’m interested in algorithms, DevOps, AI and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
-- 💬  Ask me about optimization, AWS, C or indie games!
+- 💼  I'm working as a Cloud & DevOps Consultant @ [Devoteam Revolve](https://revolve.team/)
+- 🌱  I’m learning AWS with Maarek's Udemy classes, aiming to pass the Developer Associate certification ☁️
+- 🤩  I’m interested in algorithms, platform engineering, AI and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
+- 💬  Ask me about optimization, AWS, Terraform, or indie games!
 - 📫  How to reach me: [cesarclaudepro@gmail.com](mailto:cesarclaudepro@gmail.com) | Slack 42Paris: cclaude
 - ⚡ Fun fact: I am fluent in pretending to speak Japanese
 
