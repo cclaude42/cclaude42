@@ -1,4 +1,4 @@
-## Hey 🤙
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Cesar%20Claude!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 - 💼  I'm working as a Cloud & DevOps Consultant @ [Devoteam Revolve](https://revolve.team/)
 - 🌱  I’m learning AWS with Maarek's Udemy classes, aiming to pass the Developer Associate certification ☁️
@@ -31,6 +31,4 @@
 
 ## 42 stats
 
-<p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45" alt="cclaude's 42 stats" /></a>
-</p>
+[![cclaude's 42 stats](https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
