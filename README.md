@@ -41,6 +41,6 @@
 
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cldosd33000540fmzhlm4gw7b/stats?cursusId=21&coalitionId=45" alt="cclaude's 42 stats" />
+    <img src="https://badge42.coday.fr/api/v2/clplvghmj129901t6hdx14ufw/stats?cursusId=21&coalitionId=45" alt="cclaude's 42 stats" />
   </a>
 </p>
