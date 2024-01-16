@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Cesar%20Claude!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-- 💼  I'm working as a Cloud & DevOps Consultant @ [Devoteam Revolve](https://revolve.team/)
+- 💼  I'm working as a Cloud & ML Consultant @ [Devoteam Revolve](https://revolve.team/)
 - 🌱  I’m learning cloud-based machine learning, with a focus on open-source MLOps & AWS Sagemaker ☁️
 - 🤩  I’m interested in algorithms, platform engineering, AI and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
 - 💬  Ask me about optimization, AWS, Terraform, or indie games!
