@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Cesar%20Claude!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-- 🚀  I'm deploying GenAI pipelines on AWS Sagemaker for [Tatradev](https://www.tatradev.com/) and [Gladia](https://www.gladia.io/)
-- 💼  I'm working as a Cloud & ML Consultant @ [Devoteam Revolve](https://revolve.team/)
-- 🌱  I’m learning open-source MLOps, CI best practices & Golang ☁️
+- 🚀  I'm working on GenAI & MLOps use-cases @ [CFM](https://www.cfm.com/)
+- 💼  I'm working as a Cloud & MLOps Consultant @ [Devoteam Revolve](https://revolve.team/)
+- 🌱  I’m learning to fine-tune open-source LLMs, MLOps best practices & Golang ☁️
 - 🤩  I’m interested in algorithms, platform engineering, AI and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
-- 💬  Ask me about optimization, AWS, Terraform, or indie games!
+- 💬  Ask me about GenAI in production, AWS, Terraform, or indie games!
 - 📫  How to reach me: [cesarclaudepro@gmail.com](mailto:cesarclaudepro@gmail.com) | Slack 42Paris: cclaude
 - ⚡ Fun fact: I am fluent in pretending to speak Japanese
 
@@ -29,14 +29,6 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![image](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-
-## Github stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cclaude42&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff" alt="cclaude42's GitHub stats" />
-  </a>
-</p>
 
 ## 42 stats
 
