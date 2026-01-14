@@ -15,7 +15,7 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![image]([taaaanstack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=TanStack&logoColor=white))
+![image](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=TanStack&logoColor=white)
 ![image](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7)
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
@@ -36,11 +36,11 @@
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![image](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
-<> ![image](pangolin)
+[pangolin]: #
 
 ### DevX
 ![image](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![image](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
-<> ![image](monokai)
+[monokai]: #
 ![image](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 ![image](https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
