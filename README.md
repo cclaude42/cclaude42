@@ -11,40 +11,36 @@
 ## Stack of choice
 
 ### Frontend
-React Typescript Tanstack tailwind shadcn next
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![image]([taaaanstack](https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=TanStack&logoColor=white))
+![image](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7)
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
 ![image](https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![image](taaaanstack)
-![image](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7)
 
 ### Backend 
-fastapi python sqlalchemy postgres timescale uv
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/TimescaleDB-003B77?style=for-the-badge&logo=timescale&logoColor=white)
 ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![image](uv)
-![image](ormmmm)
+![image](https://img.shields.io/badge/?&style=for-the-badge&logo=&logoColor=white)
+![image](https://img.shields.io/badge/uv-DE5FE9?&style=for-the-badge&logo=uv&logoColor=white)
 
 ### Devops
-AWS docker githubactions gitlabci opentofu
 ![image](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![image](https://img.shields.io/badge/OpenTofu-FFDA18?&style=for-the-badge&logo=OpenTofu&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![image](opentofu)
 ![image](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
-![image](pangolin)
+<> ![image](pangolin)
 
 ### DevX
-Cursor gptpro monokaipro starship  eza bat zoxide
-![image](cursor)
+![image](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![image](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
-![image](monokai)
+<> ![image](monokai)
 ![image](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+![image](https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
