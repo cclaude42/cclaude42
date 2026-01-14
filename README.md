@@ -27,7 +27,7 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/TimescaleDB-003B77?style=for-the-badge&logo=timescale&logoColor=white)
 ![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![image](https://img.shields.io/badge/?&style=for-the-badge&logo=&logoColor=white)
+![image](https://img.shields.io/badge/sqlalchemy-D71F00?&style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![image](https://img.shields.io/badge/uv-DE5FE9?&style=for-the-badge&logo=uv&logoColor=white)
 
 ### Devops
@@ -36,11 +36,9 @@
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![image](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
-[pangolin]: #
 
 ### DevX
 ![image](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![image](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
-[monokai]: #
 ![image](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 ![image](https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
