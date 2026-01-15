@@ -3,7 +3,7 @@
 - 🚀  I'm building an meter data ingestion pipeline for industry facilities
 - 💼  I'm working as a freelance software engineer
 - 🌱  I’m learning about open-source authentication & proxy tools
-- 🤩  I’m interested in product-oriented development, , [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
+  - 🤩  I’m interested in product-oriented development, ORMs, and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
 - 💬  Ask me about GenAI in production, cloud architecture or devX !
 - 📫  How to reach me: [cesarclaudepro@gmail.com](mailto:cesarclaudepro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/cesar-claude/)
 - ⚡ Fun fact: I am fluent in pretending to speak Japanese
