@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there%20!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-- 🚀  I'm building an meter data ingestion pipeline for industry facilities
 - 💼  I'm working as a freelance software engineer
+- 🚀  I'm building a meter data ingestion pipeline for industry facilities
 - 🌱  I’m learning about open-source authentication & proxy tools
 - 🤩  I’m interested in product-oriented development, ORMs, and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
 - 💬  Ask me about GenAI in production, cloud architecture or devX !
