@@ -3,7 +3,7 @@
 - 💼  I'm working as an AI Fullstack Software Engineer @ [Newfund](https://newfundcap.com/)
 - 🚀  I'm building an AI-powered personal assistant for venture capital
 - 🌱  I’m learning about agentic systems & modern authentication workflows
-- 🤩  I’m interested in product-oriented development, ORMs, and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
+- 🤩  I’m interested in product-oriented development, anything AI, and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
 - 💬  Ask me about GenAI in production, cloud architecture or devX !
 - 📫  How to reach me: [cesarclaudepro@gmail.com](mailto:cesarclaudepro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/cesar-claude/)
 - ⚡ Fun fact: I am fluent in pretending to speak Japanese
