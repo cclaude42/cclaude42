@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there%20!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-- 💼  I'm working as an AI Fullstack Software Engineer @ [Newfund](https://newfundcap.com/)
-- 🚀  I'm building an AI-powered personal assistant for venture capital
+- 💼  I'm working as a freelance Software Engineer @ [Ecole 2600](https://www.2600.eu)
+- 🚀  I'm building an e-learning platform
 - 🌱  I’m learning about agentic systems & modern authentication workflows
 - 🤩  I’m interested in product-oriented development, anything AI, and [competitive programming](https://www.codingame.com/profile/18b80b5bcc2d8e99a5927a177258e2142234663)
 - 💬  Ask me about GenAI in production, cloud architecture or devX !
